@@ -1,0 +1,43 @@
+
+Athlete 1
+
+Prepared!
+Competed!
+Gold
+
+Athlete 2
+
+Prepared!
+Competed!
+No medal!
+
+Alice
+
+Prepared!
+Competed!
+Gold
+
+Bob
+
+Prepared!
+Competed!
+No medal!
+
+Alice just ran 10 unspecified distance units.
+Alice has run 10 unspecified distance units in total.
+
+Alice just ran 20 unspecified distance units.
+Alice has run 30 unspecified distance units in total.
+
+Alice just ran 30 unspecified distance units.
+Alice has run 60 unspecified distance units in total.
+
+Alice just ran 10 unspecified distance units.
+Alice has run 10 unspecified distance units in total.
+
+Alice just ran 20 unspecified distance units.
+Alice has run 30 unspecified distance units in total.
+
+Alice just ran 30 unspecified distance units.
+Alice has run 60 unspecified distance units in total.
+
